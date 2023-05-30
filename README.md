@@ -1,16 +1,13 @@
-### Hi there 👋
+¡Hola! Soy Juan Espíndola, un estudiante de secundaria apasionado por la programación hace mas de 4 años. En este perfil de GitHub encontrarás algunos de mis proyectos y trabajos.
 
-<!--
-**JuanEspindola2/JuanEspindola2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acerca de mí
+💻 Estudiante de secundaria en la carrera de Tecnico en programación.
+🌱 Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
+✍️ Disfruto resolviendo problemas y enfrentando nuevos desafíos.
 
-Here are some ideas to get you started:
+Tecnologías principales
+Estas son algunas de las tecnologías en las que me siento más cómodo trabajando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML,CSS,JavaScript,MySQL,php y Kotlin
+
+Correo electrónico: juanespindola917@gmail.com
