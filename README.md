@@ -5,7 +5,7 @@ Acerca de mí
 🌱 Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
 ✍️ Disfruto resolviendo problemas y enfrentando nuevos desafíos.
 
-Tecnologías principales
+
 Estas son algunas de las tecnologías en las que me siento más cómodo trabajando:
 
 HTML,CSS,JavaScript,MySQL,php y Kotlin
