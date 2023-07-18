@@ -8,6 +8,6 @@ Acerca de mí
 
 Estas son algunas de las tecnologías en las que me siento más cómodo trabajando:
 
-HTML,CSS,JavaScript,MySQL,php y Kotlin
+HTML, CSS, JavaScript, NodeJS, MySQL, php y Kotlin
 
 Correo electrónico: juanespindola917@gmail.com
