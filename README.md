@@ -24,7 +24,7 @@
 
 
 <!--Intro start-->
-- 🔭  Currently, I'm in the final year of my programming technician program. I've been studying programming for over 4 years, and during this time, I've had the opportunity to work with various technologies such as HTML, CSS, JavaScript, C, C++, MySQL, PHP, and Node.js.
+- 🔭  Currently, I finished my high school with a Technical Degree in Programming. I've been studying programming for over 4 years, and during this time, I've had the opportunity to work with various technologies such as HTML, CSS, JavaScript, C, C++, MySQL, PHP, Unity, Needle and Node.js.
 
 - 🌱  I'm in the process of learning new skills and knowledge to solidify my career as a programmer.
 
