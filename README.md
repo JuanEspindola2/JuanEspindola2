@@ -69,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,c,cpp,css,discord,html,js,kotlin,mysql,nodejs,unity,needle,vuejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,php,c,cpp,css,discord,html,js,kotlin,mysql,nodejs,unity,vuejs&perline=14" />
   </a>
 </p>
 
