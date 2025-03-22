@@ -29,7 +29,6 @@
 
 
 <!--Intro start-->
-- 🔭  Currently, I finished my high school with a Technical Degree in Programming. I've been studying programming for over 4 years, and during this time, I've had the opportunity to work with various technologies such as HTML, CSS, JavaScript, C, C++, MySQL, PHP, Unity, Needle and Node.js.
 
 - 🌱  I'm in the process of learning new skills and knowledge to solidify my career as a programmer.
 
@@ -74,7 +73,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,c,cpp,css,discord,html,js,kotlin,mysql,nodejs,unity,vuejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,php,c,cpp,css,html,js,kotlin,mysql,nodejs,unity,vuejs&perline=14" />
   </a>
 </p>
 
